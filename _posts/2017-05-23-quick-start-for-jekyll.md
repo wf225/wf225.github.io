@@ -5,7 +5,7 @@ date:   2017-05-23 09:49:14 +0800
 categories: jekyll update
 ---
 ## Create a new Jekyll site by doing the following:
-  ```
+  ```sh
   # Install Jekyll and Bundler gems through RubyGems
   ~ $ gem install jekyll bundler
   ~ $ bundler install
@@ -22,3 +22,22 @@ categories: jekyll update
   # Now browse to http://localhost:4000
   ```
   [Quick-start guide doc](http://jekyllrb.com/docs/quickstart/)
+
+
+```js
+/**
+ * Does a thing
+ */
+function helloWorld(param1, param2) {
+  var something = 0;
+
+  // Do something
+  if (2.0 % 2 == something) {
+    console.log('Hello, world!');
+  } else {
+    return null;
+  }
+
+  // @TODO comment
+}
+```
