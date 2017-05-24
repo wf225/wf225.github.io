@@ -2,7 +2,8 @@
 layout: post
 title:  "Quick start for Jekyll"
 date:   2017-05-23 09:49:14 +0800
-categories: jekyll update
+categories: jekyll
+comments: true
 ---
 ## Create a new Jekyll site by doing the following:
   ```sh
