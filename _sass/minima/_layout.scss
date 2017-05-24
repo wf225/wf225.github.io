@@ -2,11 +2,21 @@
  * Site header
  */
 .site-header {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  font-family: Monaco, 'Helvetica Neue', Helvetica, Arial, serif;
   background: #2e7bcf url(./images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
+}
+
+.site-header a {
+  text-decoration: none;
+  color: #ddd;
+}
+
+.site-header a:hover {
+  text-decoration: none;
+  color: #fff;
 }
 
 .site-title {
@@ -16,11 +26,7 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-
-  &,
-  &:visited {
-    color: $grey-color-dark;
-  }
+  color: #fff;
 }
 
 .site-nav {
@@ -36,10 +42,9 @@
   }
 
   .page-link {
-    color: $text-color;
     line-height: $base-line-height;
     padding:5px 10px;
-    border: 1px solid #333; 
+    border: 1px solid #eee; 
     border-radius: 4px;
     font-size:12px;font-weight:bold;
 
