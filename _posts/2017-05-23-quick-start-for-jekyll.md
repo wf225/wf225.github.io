@@ -8,6 +8,7 @@ categories: jekyll update
   ```
   # Install Jekyll and Bundler gems through RubyGems
   ~ $ gem install jekyll bundler
+  ~ $ bundler install
 
   # Create a new Jekyll site at ./myblog
   ~ $ jekyll new myblog

@@ -4,8 +4,10 @@
   "description": "You can use the [editor on GitHub](https://github.com/wf225/wf225.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
   "main": "index.js",
   "scripts": {
+    "clean": "rm -rf _site .sass-cache",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "bundle exec jekyll serve"
+    "build": "bundle exec jekyll serve",
+    "upgrade": "bundle update github-pages"
   },
   "repository": {
     "type": "git",
