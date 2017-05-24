@@ -2,10 +2,10 @@
  * Site header
  */
 .site-header {
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  background: #2e7bcf url(./images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
 
@@ -38,6 +38,10 @@
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
+    padding:5px 10px;
+    border: 1px solid #333; 
+    border-radius: 4px;
+    font-size:12px;font-weight:bold;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -117,7 +121,13 @@
 .contact-list,
 .social-media-list {
   list-style: none;
-  margin-left: 0;
+  margin-left: 0;  
+}
+
+.contact-list li,
+.social-media-list li {
+  display: inline-block;
+  margin-right: 10px;
 }
 
 .footer-col-wrapper {
