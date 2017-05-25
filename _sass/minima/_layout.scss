@@ -263,3 +263,31 @@
     }
   }
 }
+
+
+/** Table of Contents **/
+.catalog-list {
+  float: right;
+  border: 1px solid #e2e2e2;
+  font-size: 12px;
+  margin: 0px 0 15px 20px;
+  padding: 6px 6px 6px 20px;
+  background: #FFF;
+  list-style-type: disc;
+
+  position: absolute;
+  right: 2px;
+  top: 60px;
+  width: 150px;
+
+  overflow: hidden;
+  border: 1px groove #281;
+  cursor: default;
+  -moz-user-select: none;  
+}
+.catalog-list::before {
+  content: 'Table of Contents';
+  font-weight: bold;
+  border-bottom: 1px solid #e2e2e2;
+  display: block;
+}

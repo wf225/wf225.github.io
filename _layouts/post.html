@@ -19,6 +19,8 @@ layout: default
     {{ content }}
   </div>
 
+</article>
+
 {% if page.comments %}
   <div id="disqus_thread"></div>
   <script>
@@ -43,4 +45,25 @@ layout: default
   </noscript>
 {% endif %}
 
-</article>
+
+<div class="post-content">
+  <ul id="header_list" class="catalog-list">
+  </ul>
+</div>
+<script src="https://cdn.bootcss.com/jquery/1.11.0/jquery.min.js"></script>
+<script>
+$(function() {
+  $("h2, h3, h4, h5, h6").each(function(i, el) {
+    var $el, item, id;
+    $el = $(el);
+    id = el.id;   
+    if (id) {
+      item = $('<li></li>');
+      var aa = $("<a />").attr("href", "#" + id).html(el.innerText);
+      item.html(aa);
+      $("#header_list").append(item);
+    }
+  });
+});
+
+</script>

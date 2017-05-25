@@ -22,9 +22,10 @@ comments: true
 
   # Now browse to http://localhost:4000
   ```
-  [Quick-start guide doc](http://jekyllrb.com/docs/quickstart/)
 
+### [Quick-start guide doc](http://jekyllrb.com/docs/quickstart/)
 
+### JS code style
 ```js
 /**
  * Does a thing
