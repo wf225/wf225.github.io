@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Build a website use S3 + Lamada + API Gateway"
-date:   2017-05-13 09:18:14 +0800
+title:  "Build a website with S3 + Lamada + API Gateway"
+date:   2017-05-25 09:18:14 +0800
 categories: AWS
 comments: true
 ---
