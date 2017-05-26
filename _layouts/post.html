@@ -16,70 +16,21 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
+
+    <div class="post-content">
+      <ul id="header_list" class="catalog-list">    
+    </div>
+
     {{ content }}
   </div>
 
-  <div class="post-content">
-    <ul id="header_list" class="catalog-list">    
-  </div>
+
   <script src="https://cdn.bootcss.com/jquery/1.11.0/jquery.min.js"></script>
-  <script>
-  $(function() {
-    var li_root, li_sub, ul_sub;
-    $("h2, h3, h4, h5, h6").each(function(i, el) {
-      var $el, id;
-      $el = $(el);
-      id = el.id;
-      tagName = el.tagName;
-      h_index = parseInt(tagName.substr(1));
-         
-      if (id) {     
-        var aa = $("<a />").attr("href", "#" + id).html(el.innerText);        
-        if(h_index == 2) {
-          li_root = $('<li></li>');
-          li_root.append(aa);
-          $("#header_list").append(li_root);
-        }
-        else if(h_index == 3) {
-          ul_sub = $("<ul><ul>");
-          li_sub = $('<li></li>');
-          li_sub.html(aa);
-          ul_sub.html(li_sub);          
-          li_root.append(ul_sub);
-        }
-        else if(h_index > 3) {
-          var ul_sub_3 = $("<ul><ul>");
-          var li_sub_3 = $('<li></li>');
-          li_sub_3.html(aa);
-          ul_sub_3.html(li_sub_3);          
-          li_sub.append(ul_sub_3);
-        }
-      }
-    });
-  });
-  </script>
+  <script src="/assets/js/header_list.js"></script>
 
 </article>
 
 {% if page.comments %}
   <div id="disqus_thread"></div>
-  <script>
-    /**
-    * https://disqus.com/admin/universalcode/#configuration-variables
-    */
-    var disqus_config = function () {
-      // this.page.url = "{{page.url}}";
-      this.page.identifier = "{{page.id}}";
-    };
-
-    (function() { // DON'T EDIT BELOW THIS LINE
-      var d = document, s = d.createElement('script');
-      s.src = 'https://wf225.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', +new Date());
-      (d.head || d.body).appendChild(s);
-    })();
-  </script>
-  <noscript>
-    Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-  </noscript>
+  <script src="/assets/js/disqus_config.js"></script>
 {% endif %}

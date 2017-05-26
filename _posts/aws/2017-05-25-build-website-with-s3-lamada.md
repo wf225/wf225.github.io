@@ -4,6 +4,7 @@ title:  "Build a website with S3 + Lamada + API Gateway"
 date:   2017-05-25 09:18:14 +0800
 categories: AWS
 comments: true
+author: Bill Wu
 ---
 
 ## [AWS Command Line Interface](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
