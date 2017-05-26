@@ -25,7 +25,7 @@ comments: true
 
 ### [Quick-start guide doc](http://jekyllrb.com/docs/quickstart/)
 
-### JS code style
+#### JS code style
 ```js
 /**
  * Does a thing
