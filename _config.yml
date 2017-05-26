@@ -23,6 +23,7 @@ twitter_username: wf225
 github_username:  wf225
 
 # Build settings
+permalink: /:categories/:title  # /:categories/:year/:month/:day/:title.html
 markdown: kramdown
 theme: minima
 gems:
