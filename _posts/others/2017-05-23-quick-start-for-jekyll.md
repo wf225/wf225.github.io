@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quick start for Jekyll"
+title:  "如何用 github pages 创建博客"
 date:   2017-05-23 09:49:14 +0800
 categories: jekyll
 comments: true
