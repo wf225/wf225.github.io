@@ -1,11 +1,16 @@
 ---
 layout: post
-title:  "Build a website with S3 + Lamada + API Gateway"
-date:   2017-05-25 09:18:14 +0800
-categories: AWS
-comments: true
+category: aws
+title: "Build a simple website on AWS"
+date: 2017-05-25 09:18:14 +0800
+tagline: by Snail
+tags: [aws, lambda]
 author: Bill Wu
+comments: true
 ---
+Build a simple website with AWS S3 + Lamada Function + API Gateway
+
+<!--more-->
 
 ## [AWS Command Line Interface](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
 The AWS Command Line Interface is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.

@@ -7,6 +7,7 @@
     "clean": "rm -rf _site .sass-cache",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "bundle exec jekyll serve",
+    "install": "bundle install",
     "upgrade": "bundle update github-pages"
   },
   "repository": {
