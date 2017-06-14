@@ -3,9 +3,8 @@ layout: post
 category: jekyll
 title:  "如何用 github pages 创建博客"
 date:   2017-05-23 09:49:14 +0800
-tagline: by Snail
 tags: [jekyll]
-author: 吴锋
+author: Wu Feng
 comments: true
 ---
 Create a new Jekyll site deploy on github pages.
