@@ -17,6 +17,10 @@ comments: true
 地址： 闸北区 天目东路200号(近三号线宝山路站)  
 电话： 021-51221987  
 营业时间： 9:00-11:30 周二至周日; 14:00-16:30 周二至周日  
+<img src="http://qcloud.dpfile.com/pc/1AI62N4hfMO9O7KU_8OIq3hXEX5DrikOx2nwm01919O1tiHoIFh7s4vj3i5usYHJF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
+<img src="http://qcloud.dpfile.com/pc/in_Yh51PuYA2s7MKAhFqZjyf_0Jw6SY2d5EpCZCIA9ODrHx3403SEg5dUJI6XFidF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
+<img src="http://qcloud.dpfile.com/pc/2yBKvgCZNUHjtFAcQnZdhtd4NfJ1ompsYiiBZZ7pellM0wAYLEIz_v9tRtctzr3YF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
+<img src="http://qcloud.dpfile.com/pc/WVZoKvhookcuO61-XEgXVz9UeJbtJcGw9r4C5uHKSsxUYT4oEaurKn6_Sc_-uOXZF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
 
 ### 上海地铁博物馆
 [大众点评](http://www.dianping.com/shop/20854270)  
@@ -24,6 +28,10 @@ comments: true
 地址： 吴中路1779号(地铁十号线紫藤路站1号出口)  
 电话： 021-26030058  
 营业时间： 09:00-16:00 周二至周日  
+<img src="http://qcloud.dpfile.com/pc/uY_p68Mm4EMQnqm59ijqO10hbAl0kDIwgFWVcYRcr5IYSd5pUM0-W-zUkaRdWbyoF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
+<img src="http://qcloud.dpfile.com/pc/IphBdAJv-7TkXrTMB8JG80mKKwN2J75vgY4L7FLsa-2kny307jm2VFt7_Mp2KreTF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
+<img src="http://qcloud.dpfile.com/pc/45GeDu-VVDEkLHEWsGKytbPChg2Y7ifuO5Moyu_4GGpCPkWLDk0eI9B8Xgm4UCmmF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
+<img src="http://qcloud.dpfile.com/pc/crshxA8x4yv__ea6sHZnh3Lkfhx6_ZRmPLhF8psJOIdKDKcUBpLtixvsrKsbtZQhF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
 
 ### 航宇科普中心(上海航空科普馆)
 [大众点评](http://www.dianping.com/shop/3213199)  
@@ -31,6 +39,10 @@ comments: true
 地址： 沪闵路7900号(近申南路)  
 电话： 021-64806759  
 营业时间： 9:00-15:00 周二至周日  
+<img src="http://qcloud.dpfile.com/pc/LvNH53PmTDiw2sgX2h6zjAeJFL9nm3qYh5QXQqsmkAgUpA7Hhb1BXhWjGJZrhuJMF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
+<img src="http://qcloud.dpfile.com/pc/zQ5kEB3-ZYokkOlRjwmpYuOYIor1IComnaDpHL7M5Z6nFkyTec5LXfVc9Lvl-1ZOF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
+<img src="http://qcloud.dpfile.com/pc/rzF-8q7CQRhtSYbxyZJUpcRiTWUieRfjcllf-FFeIxCZRJPppoEcDwiwGK5id0MuF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
+<img src="http://qcloud.dpfile.com/pc/ZqYoQin6P4SvxxXIfA7xBzuWPXQHQIsZRNmkmhR-mPsuibHag4Dq350YHSnc6ip0F5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
 
 ### 上海消防博物馆
 [大众点评](http://www.dianping.com/shop/2649910)  
@@ -38,6 +50,10 @@ comments: true
 地址： 中山西路229号(长宁路口)  
 电话： 021-28955295  
 营业时间： 每周一休息 早上9：30-11：30 下午13：30-16：30  
+<img src="http://qcloud.dpfile.com/pc/QHXJzyjQQTudB6G7RBaXp_a5x20Pe5cW_Ay3UfmgalLv0FK4tIzFYq6TBNOPIzR0F5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
+<img src="http://qcloud.dpfile.com/pc/VA-Hq_oa35iiGC9AfC32hTkWNJQ8Gx3E2uQjNq1UH7nEdoxiutxyE8UKBQVpTR7zF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
+<img src="http://qcloud.dpfile.com/pc/xTSMVAMo3WAwt_5VHe9t3jDSTpZTQ751IbI-8-3JfqmnFkyTec5LXfVc9Lvl-1ZOF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
+<img src="http://qcloud.dpfile.com/pc/Rd5nSDV0idXR_6DSw4orRtYbPwDoUpi87VUwRxD1ulcphJfrL7bpWNvTSHVIqFQMF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
 
 ### 中国航海博物馆
 [大众点评](http://www.dianping.com/shop/3510277)  
@@ -45,6 +61,10 @@ comments: true
 地址： 南汇新城申港大道197号(环湖西二路)  
 电话： 021-38287777 021-68283691  
 营业时间： 09:30-21:00 周二至周日  
+<img src="http://qcloud.dpfile.com/pc/wjhxRpBI4YytiMeTH-8uieyOdP76R-noQMlwUQ_IWe1o0GEYBZLHFvv4FAg44xBQF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
+<img src="http://qcloud.dpfile.com/pc/ypZYVrnBQWQU3lk8WSegwfRi3qhNgzLzOCD0IwTDYRZUYT4oEaurKn6_Sc_-uOXZF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
+<img src="http://qcloud.dpfile.com/pc/5eXCKMOseRaLpkL5Htegqkb0E864f0fSOTE8EXysh0E-6nbDDJnfJwPyRaeIkFSNF5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
+<img src="http://qcloud.dpfile.com/pc/eSs26-K2AZycy4byv0Pawzq10axSapB7s-AjSeG91IKzMTND1wtmgUB-zFx-qiG-F5u7J_jS4MuCaeLAHD0KTg.jpg" width="100">
 
 ### 上海自然博物馆(静安新馆)
 [大众点评](http://www.dianping.com/shop/18121665)  
