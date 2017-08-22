@@ -85,19 +85,19 @@ share_to: true #enable share-to buttons if true
 
 #### Author information
 author:
-  name: "WuFeng"      ## e.g. wuchong Author name
+  name: "Feng.Wu"      ## e.g. wuchong Author name
   intro_line1:  #"Hello, I'm Bill in Autodesk."    ## your introduction on the bottom of the page
   intro_line2:    ## the 2nd line
-  weibo: http://weibo.com/1738031041      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
-  weibo_verifier: 361d8809  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
-  tsina: 1738031041      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
-  douban:      ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
+  weibo: 1738031041      ## Your weibo ID, for http://weibo.com/12345678
+  weibo_verifier: 361d8809  ## Your weibo-show widget verifier, if you use weibo-show it is needed.
+  tsina: 1738031041      ## Your weibo ID, it will be used in share button.
+  douban:      ## Your douban id for https://www.douban.com/people/12345678
   zhihu:       ## e.g. jark  for http://www.zhihu.com/people/jark
-  email: wf225@126.com      ## e.g. imjark@gmail.com
-  twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
-  github: wf225     ## e.g. wuchong for https://github.com/wuchong
-  facebook:   ## e.g. imjark for https://facebook.com/imjark
-  linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
+  email: wf225@126.com
+  twitter:    ## e.g. wf225 for https://twitter.com/wf225
+  github: wf225     ## e.g. wf225 for https://github.com/wf225
+  facebook:   ## e.g. wf225 for https://facebook.com/wf225
+  linkedin:   ## e.g. wf225 for https://www.linkedin.com/in/wf225
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
   stackoverflow:  ## e.g. 3222790 for http://stackoverflow.com/users/3222790/jark
 ## if you set them, the corresponding  share button will show on the footer
