@@ -1,12 +1,13 @@
 {
-  "name": "github-pages",
+  "name": "wf225-github-pages",
   "version": "1.0.0",
   "description": "You can use the [editor on GitHub](https://github.com/wf225/wf225.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf _site .sass-cache",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "bundle exec jekyll serve",
+    "start": "bundle exec jekyll serve",
+    "start-drafts": "bundle exec jekyll server --drafts",
     "install": "bundle install",
     "upgrade": "bundle update github-pages"
   },

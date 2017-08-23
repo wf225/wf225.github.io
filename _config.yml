@@ -1,5 +1,5 @@
 #### Exclude
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "docs"]
 
 #### Code Highlighter
 # 'pygments' is unsupported on GitHub Pages now.
@@ -114,20 +114,18 @@ links:
   博客园: http://wf225.cnblogs.com
   我的优酷视频: http://i.youku.com/tianle
 
-#excerpt_separator: <!--more-->
-
 #### Comment
 duoshuo_shortname:    ## e.g. wuchong   your duoshuo short name.
 disqus_shortname: wf225    ## e.g. wuchong   your disqus short name.
-hypercomments_id:     ## e.g. 91510     your hypercomments widget id.  website: http://hypercomments.com
+hypercomments_id:     ## e.g. 91510 your hypercomments widget id.  website: http://hypercomments.com
 ## set only one of them
 ## duoshuo will be shutting down on June 1, 2017
 
 #### Share button
 jiathis:
-  enable: false ## if you use jiathis as your share tool,the built-in share tool won't be display.
-  id:    ## e.g. 1889330 your jiathis ID.
-  tsina: ## e.g. 2176287895 Your weibo id,It will be used in share button.
+  enable: true ## if you use jiathis as your share tool,the built-in share tool won't be display.
+  id: 2142251  ## e.g. 1889330 your jiathis ID.
+  tsina: 1738031041 ## e.g. 2176287895 Your weibo id,It will be used in share button.
 
 #### Analytics
 google_analytics:
