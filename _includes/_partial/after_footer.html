@@ -47,12 +47,14 @@ $(document).ready(function(){
     getSize(); 
     if (myWidth >= 1024) {
       $('header nav').removeClass('shownav');
+      $('#toc.toc-article').show();      
     }else{
       m.removeClass('moveMain');
       a.css('display', 'block').removeClass('fadeOut');
       o.css('display', 'none');
       {% if page.layout == 'post' and page.toc != false and site.toc.aside %}
       $('#toc.toc-aside').css('display', 'none');
+      $('#toc.toc-article').css('display', 'none');
       {% endif %}
     }
   });

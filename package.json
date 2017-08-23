@@ -9,7 +9,8 @@
     "start": "bundle exec jekyll serve",
     "start-drafts": "bundle exec jekyll server --drafts",
     "install": "bundle install",
-    "upgrade": "bundle update github-pages"
+    "upgrade": "bundle update github-pages",
+    "server:stop": ". ./assets/server-stop.sh"
   },
   "repository": {
     "type": "git",
