@@ -1,9 +1,9 @@
 ---
 layout: post
-category: jekyll
+category: Web
 title:  "如何用 github pages 创建博客"
 date:   2017-05-23 09:49:14 +0800
-tags: [jekyll]
+tags: [web]
 author: Wu Feng
 comments: true
 ---

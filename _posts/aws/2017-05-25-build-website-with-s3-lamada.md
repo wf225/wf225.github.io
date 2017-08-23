@@ -1,6 +1,6 @@
 ---
 layout: post
-category: aws
+category: [Web, AWS]
 title: "Build a simple website on AWS"
 date: 2017-05-25 09:18:14 +0800
 tags: [aws, lambda]
