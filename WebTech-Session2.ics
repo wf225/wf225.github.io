@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:China Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Zhenxing Yang";RSVP=TRUE:mailto:zhenxing.yang@autodesk.com
+ATTENDEE;CN="Room Shanghai Bldg 7 AR3001 Moon (14)";CUTYPE=RESOURCE;ROLE=NO
+	N-PARTICIPANT;RSVP=TRUE:mailto:moon3001@autodesk.com
+CLASS:PUBLIC
+CREATED:20170824T102817Z
+DESCRIPTION:本期主题: Talk about WebARX Extension Service\n\n分享人:
+	 Zhenxing Yang\n\n时间: 2017/08/29\, 周二下午 13:30 ~14:30\n\n地点
+	: Room Shanghai Bldg 7 AR3001 Moon\n\n1. What is WebARX\n\n2. Talk about a
+	cad-web\n\n3. The development process of the web team\n\n
+DTEND;TZID="China Standard Time":20170829T143000
+DTSTAMP:20170824T102747Z
+DTSTART;TZID="China Standard Time":20170829T133000
+LAST-MODIFIED:20170824T102817Z
+LOCATION:Room Shanghai Bldg 7 AR3001 Moon (14)
+ORGANIZER;CN="Bill Wu":mailto:bill.wu@autodesk.com
+PRIORITY:5
+SEQUENCE:6
+SUMMARY;LANGUAGE=en-us:Talk about WebARX Extension Service
+TRANSP:OPAQUE
+UID:9EE58191-8CD4-43E9-9F95-BDB775260940
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40" xmlns:ns0="http://macVmlS
+	chemaUri"><head><meta name=Generator content="Microsoft Word 15 (filtered 
+	medium)"><style><!--\n/* Font Definitions */\n@font-face\n	{font-family:Si
+	mSun\;\n	panose-1:2 1 6 0 3 1 1 1 1 1\;}\n@font-face\n	{font-family:"Cambr
+	ia Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n	{font-family:Ca
+	libri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n@font-face\n	{font-family:SimS
+	un\;\n	panose-1:2 1 6 0 3 1 1 1 1 1\;}\n/* Style Definitions */\np.MsoNorm
+	al\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	margin-bottom:.0001pt\
+	;\n	font-size:12.0pt\;\n	font-family:"Calibri"\,sans-serif\;}\na:link\, sp
+	an.MsoHyperlink\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decora
+	tion:underline\;}\na:visited\, span.MsoHyperlinkFollowed\n	{mso-style-prio
+	rity:99\;\n	color:#954F72\;\n	text-decoration:underline\;}\np.MsoListParag
+	raph\, li.MsoListParagraph\, div.MsoListParagraph\n	{mso-style-priority:34
+	\;\n	margin-top:0in\;\n	margin-right:0in\;\n	margin-bottom:0in\;\n	margin-
+	left:.5in\;\n	margin-bottom:.0001pt\;\n	font-size:12.0pt\;\n	font-family:"
+	Calibri"\,sans-serif\;}\np.msonormal0\, li.msonormal0\, div.msonormal0\n	{
+	mso-style-name:msonormal\;\n	mso-margin-top-alt:auto\;\n	margin-right:0in\
+	;\n	mso-margin-bottom-alt:auto\;\n	margin-left:0in\;\n	font-size:12.0pt\;\
+	n	font-family:"Times New Roman"\,serif\;}\nspan.EmailStyle19\n	{mso-style-
+	type:personal\;\n	font-family:"Calibri"\,sans-serif\;\n	color:windowtext\;
+	}\nspan.EmailStyle20\n	{mso-style-type:personal\;\n	font-family:"Calibri"\
+	,sans-serif\;\n	color:windowtext\;}\nspan.EmailStyle21\n	{mso-style-type:p
+	ersonal\;\n	font-family:"Calibri"\,sans-serif\;\n	color:windowtext\;}\nspa
+	n.EmailStyle22\n	{mso-style-type:personal\;\n	font-family:"Calibri"\,sans-
+	serif\;\n	color:windowtext\;}\nspan.EmailStyle23\n	{mso-style-type:persona
+	l-compose\;\n	font-family:"Calibri"\,sans-serif\;\n	color:windowtext\;}\n.
+	MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;}\n@page
+	 WordSection1\n	{size:595.0pt 842.0pt\;\n	margin:1.0in 1.0in 1.0in 1.0in\;
+	}\ndiv.WordSection1\n	{page:WordSection1\;}\n/* List Definitions */\n@list
+	 l0\n	{mso-list-id:465247018\;\n	mso-list-template-ids:-1185266934\;}\n@li
+	st l1\n	{mso-list-id:1104762233\;\n	mso-list-type:hybrid\;\n	mso-list-temp
+	late-ids:1453229240 67698703 67698713 67698715 67698703 67698713 67698715 
+	67698703 67698713 67698715\;}\n@list l1:level1\n	{mso-level-tab-stop:none\
+	;\n	mso-level-number-position:left\;\n	text-indent:-.25in\;}\n@list l1:lev
+	el2\n	{mso-level-number-format:alpha-lower\;\n	mso-level-tab-stop:none\;\n
+		mso-level-number-position:left\;\n	text-indent:-.25in\;}\n@list l1:level3
+	\n	{mso-level-number-format:roman-lower\;\n	mso-level-tab-stop:none\;\n	ms
+	o-level-number-position:right\;\n	text-indent:-9.0pt\;}\n@list l1:level4\n
+		{mso-level-tab-stop:none\;\n	mso-level-number-position:left\;\n	text-inde
+	nt:-.25in\;}\n@list l1:level5\n	{mso-level-number-format:alpha-lower\;\n	m
+	so-level-tab-stop:none\;\n	mso-level-number-position:left\;\n	text-indent:
+	-.25in\;}\n@list l1:level6\n	{mso-level-number-format:roman-lower\;\n	mso-
+	level-tab-stop:none\;\n	mso-level-number-position:right\;\n	text-indent:-9
+	.0pt\;}\n@list l1:level7\n	{mso-level-tab-stop:none\;\n	mso-level-number-p
+	osition:left\;\n	text-indent:-.25in\;}\n@list l1:level8\n	{mso-level-numbe
+	r-format:alpha-lower\;\n	mso-level-tab-stop:none\;\n	mso-level-number-posi
+	tion:left\;\n	text-indent:-.25in\;}\n@list l1:level9\n	{mso-level-number-f
+	ormat:roman-lower\;\n	mso-level-tab-stop:none\;\n	mso-level-number-positio
+	n:right\;\n	text-indent:-9.0pt\;}\nol\n	{margin-bottom:0in\;}\nul\n	{margi
+	n-bottom:0in\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:e
+	xt="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<
+	o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapel
+	ayout></xml><![endif]--></head><body bgcolor=white lang=EN-US link="#0563C
+	1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal><span lang=Z
+	H-CN style='font-family:SimSun'>本期主题</span>: Talk about WebARX Ext
+	ension Service<o:p></o:p></p><p class=MsoNormal><span lang=ZH-CN style='fo
+	nt-family:SimSun'>分享人</span>: Zhenxing Yang<o:p></o:p></p><p class=M
+	soNormal><span lang=ZH-CN style='font-family:SimSun'>时间</span>: 2017/0
+	8/29\, <span lang=ZH-CN style='font-family:SimSun'>周二下午</span> 13:
+	30 ~14:30<o:p></o:p></p><p class=MsoNormal><span lang=ZH-CN style='font-fa
+	mily:SimSun'>地点</span>: Room Shanghai Bldg 7 AR3001 Moon<o:p></o:p></p
+	><p class=MsoNormal>1. What is WebARX<o:p></o:p></p><p class=MsoNormal>2. 
+	Talk about acad-web<o:p></o:p></p><p class=MsoNormal>3. The development pr
+	ocess of the web team<o:p></o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:6
+X-MS-OLK-APPTSEQTIME:20170824T102747Z
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
