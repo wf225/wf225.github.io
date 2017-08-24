@@ -17,6 +17,6 @@ comments: true
 
 <!--more-->
 
-## WebTech 第1期 回顾 [简单说说 Docker.pdf](/assets/pdf/简单说说Docker.pdf) 
+## WebTech 第1期 回顾 [简单说说 Docker.pdf]({{ site.assets }}/pdf/简单说说Docker.pdf) 
 
-## WebTech 第2期 [报名加入](/assets/webtech_session2.ics) 
+## WebTech 第2期 [报名加入](webcal://{{ site.assets }}/webtech_session2.ics) 
