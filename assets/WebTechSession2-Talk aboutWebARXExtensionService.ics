@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:China Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Room Shanghai Bldg 7 AR3001 Moon (14)";CUTYPE=RESOURCE;ROLE=NO
+	N-PARTICIPANT;RSVP=TRUE:mailto:moon3001@autodesk.com
+CLASS:PUBLIC
+CREATED:20170825T015128Z
+DESCRIPTION:本期主题: Talk about WebARX Extension Service\n\n分享人:
+	 Zhenxing Yang\n\n时间: 2017/08/29\, 周二下午 13:30 ~14:30\n\n地点
+	: Room Shanghai Bldg 7 AR3001 Moon\n\n1. What is WebARX\n\n2. Talk about a
+	cad-web\n\n3. The development process of the web team\n\n \n\n
+DTEND;TZID="China Standard Time":20170829T143000
+DTSTAMP:20170825T015113Z
+DTSTART;TZID="China Standard Time":20170829T133000
+LAST-MODIFIED:20170825T015128Z
+LOCATION:Room Shanghai Bldg 7 AR3001 Moon (14)
+ORGANIZER;CN="Bill Wu":mailto:bill.wu@autodesk.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:WebTech Session2: Talk about WebARX Extension Servic
+	e
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000852DB0871DD301000000000000000
+	010000000894783FEB6F4144282F1A6C0A9236056
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1
+	 1\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6
+	 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3
+	 2 4\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 
+	1 1 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNor
+	mal\n	{margin:0in\;\n	margin-bottom:.0001pt\;\n	font-size:12.0pt\;\n	font-
+	family:"Calibri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-p
+	riority:99\;\n	color:#0563C1\;\n	text-decoration:underline\;}\na:visited\,
+	 span.MsoHyperlinkFollowed\n	{mso-style-priority:99\;\n	color:#954F72\;\n	
+	text-decoration:underline\;}\nspan.EmailStyle17\n	{mso-style-type:personal
+	-compose\;\n	font-family:"Calibri"\,sans-serif\;\n	color:windowtext\;}\n.M
+	soChpDefault\n	{mso-style-type:export-only\;\n	font-family:"Calibri"\,sans
+	-serif\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.25in
+	 1.0in 1.25in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!-
+	-[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</
+	xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o
+	:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head>
+	<body lang=EN-US link="#0563C1" vlink="#954F72"><div class=WordSection1><p
+	 class=MsoNormal><span lang=ZH-CN style='font-family:宋体'>本期主题<
+	/span>: Talk about WebARX Extension Service<o:p></o:p></p><p class=MsoNorm
+	al><span lang=ZH-CN style='font-family:宋体'>分享人</span>: Zhenxing 
+	Yang<o:p></o:p></p><p class=MsoNormal><span lang=ZH-CN style='font-family:
+	宋体'>时间</span>: 2017/08/29\, <span lang=ZH-CN style='font-family:
+	宋体'>周二下午</span> 13:30 ~14:30<o:p></o:p></p><p class=MsoNormal>
+	<span lang=ZH-CN style='font-family:宋体'>地点</span>: Room Shanghai B
+	ldg 7 AR3001 Moon<o:p></o:p></p><p class=MsoNormal>1. What is WebARX<o:p><
+	/o:p></p><p class=MsoNormal>2. Talk about acad-web<o:p></o:p></p><p class=
+	MsoNormal>3. The development process of the web team<o:p></o:p></p><p clas
+	s=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp\;</o:p></span></p></
+	div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20170825T015113Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
